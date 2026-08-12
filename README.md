@@ -1,16 +1,16 @@
+# Me
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=xdawidtech&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=xdawidtech&theme=github-dark" alt="xdawidtech hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://srv99279.seohost.com.pl/github/me/me-light.php" />
+    <img src="https://srv99279.seohost.com.pl/github/me/me-dark.php" alt="xdawidtech me section" />
   </picture>
 </p>
 
-# GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+# Statistics
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=xdawidtech&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=xdawidtech&theme=github-dark" alt="xdawidtech stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="hhttps://srv99279.seohost.com.pl/github/statistics/statistics-light.php" />
+    <img src="https://srv99279.seohost.com.pl/github/statistics/statistics-dark.php" alt="xdawidtech statistics section" />
   </picture>
 </p>
 
@@ -26,6 +26,6 @@ GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=xdawidtech&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=xdawidtech&theme=github-dark" alt="xdawidtech social section" />
+    <img src="https://www.gitskins.com/api/section/social?username=xdawidtech&theme=github-dark" alt="xdawidtech contact section" />
   </picture>
 </p>
