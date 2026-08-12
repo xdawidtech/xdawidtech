@@ -17,15 +17,15 @@
 # Projects
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=xdawidtech&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=xdawidtech&theme=github-dark" alt="xdawidtech projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://srv99279.seohost.com.pl/github/projects/projects.php?theme=light" />
+    <img src="https://srv99279.seohost.com.pl/github/projects/projects.php" alt="xdawidtech projects section" />
   </picture>
 </p>
 
 # Contact
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=xdawidtech&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=xdawidtech&theme=github-dark" alt="xdawidtech contact section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://srv99279.seohost.com.pl/github/contact/contact-light.html" />
+    <img src="https://srv99279.seohost.com.pl/github/contact/contact-dark.html" alt="xdawidtech contact section" />
   </picture>
 </p>
