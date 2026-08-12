@@ -25,7 +25,7 @@
 # Contact
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://srv99279.seohost.com.pl/github/contact/contact-light.html" />
-    <img src="https://srv99279.seohost.com.pl/github/contact/contact-dark.html" alt="xdawidtech contact section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://srv99279.seohost.com.pl/github/contact/contact-light.svg" />
+    <img src="https://srv99279.seohost.com.pl/github/contact/contact-dark.svg" alt="xdawidtech contact section" />
   </picture>
 </p>
